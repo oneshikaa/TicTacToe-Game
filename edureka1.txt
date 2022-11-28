@@ -1,4 +1,6 @@
 hi this is a vi file
 
+Adding another line
+
 
 
