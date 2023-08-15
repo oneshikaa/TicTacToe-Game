@@ -25,4 +25,4 @@ Displays a message when the game is over.
 
 **Conclusion**
 
-Overall, this is a simple and fun Tic Tac Toe game that is easy to play and understand. It is a good starting point for anyone looking to learn C++ game development.
+Overall, this is a simple and fun Tic Tac Toe game that is easy to play and understand. 
